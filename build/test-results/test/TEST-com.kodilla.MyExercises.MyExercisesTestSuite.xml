@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.MyExercises.MyExercisesTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-16T13:50:41.504Z" hostname="DESKTOP-CMK6P3P" time="0.008">
+  <properties/>
+  <testcase name="isPalindromeKajak()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.002"/>
+  <testcase name="isPalindromePustyString()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.0"/>
+  <testcase name="isPalindromeKajakZDuzej()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.0"/>
+  <testcase name="isPalindromeAnna()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.0"/>
+  <testcase name="isPalindromeNull()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.001"/>
+  <testcase name="isPalindromeTest()" classname="com.kodilla.MyExercises.MyExercisesTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

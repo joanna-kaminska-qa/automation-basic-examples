@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.MyExercises.ToDoListTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-16T13:50:41.528Z" hostname="DESKTOP-CMK6P3P" time="0.006">
+  <properties/>
+  <testcase name="TestGetAllTasks()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.001"/>
+  <testcase name="testAddTask()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.001"/>
+  <testcase name="testAddTaskOutOfBound()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.001"/>
+  <testcase name="testRemoveTask()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.0"/>
+  <testcase name="TestIfTaskExistsPositive()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.0"/>
+  <testcase name="TestIfTaskExistsNegative()" classname="com.kodilla.MyExercises.ToDoListTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

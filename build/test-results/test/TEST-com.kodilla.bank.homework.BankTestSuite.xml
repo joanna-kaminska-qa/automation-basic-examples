@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.bank.homework.BankTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-16T13:50:41.551Z" hostname="DESKTOP-CMK6P3P" time="0.005">
+  <properties/>
+  <testcase name="shouldSumDepositsCorrectly()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldCountAverageDepositCorrectly()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountAverageWithdrawalCorrectly()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldSumWithdrawalsCorrectly()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldSumBilansCorrectly()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

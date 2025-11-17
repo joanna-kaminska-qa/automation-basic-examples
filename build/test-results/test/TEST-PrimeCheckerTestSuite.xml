@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeCheckerTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-16T13:50:41.471Z" hostname="DESKTOP-CMK6P3P" time="0.029">
+  <properties/>
+  <testcase name="shouldReturnFalseWhenPassingNegativeNumber()" classname="PrimeCheckerTestSuite" time="0.02"/>
+  <testcase name="shouldReturnTrueWhenPassingTwo()" classname="PrimeCheckerTestSuite" time="0.001"/>
+  <testcase name="shouldReturnFalseWhenPassingNotPrimeNumber()" classname="PrimeCheckerTestSuite" time="0.001"/>
+  <testcase name="shouldReturnFalseWhenPassingZero()" classname="PrimeCheckerTestSuite" time="0.001"/>
+  <testcase name="shouldReturnTrueWhenPassingPrimeNumber()" classname="PrimeCheckerTestSuite" time="0.001"/>
+  <testcase name="shouldReturnFalseWhenPassingOne()" classname="PrimeCheckerTestSuite" time="0.0"/>
+  <system-out><![CDATA[Test number 1
+Test number 2
+Test number 3
+Test number 4
+Test number 5
+Test number 6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
