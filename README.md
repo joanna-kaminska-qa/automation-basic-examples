@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-This repository contains exercises, homework tasks, examples and unit tests created as part of a module in the **Kodilla "Automated Tester" Java course**, focusing on Java Testing Basics in Java 21.
+This repository contains exercises, homework tasks, examples and unit tests created as part of a module in the **Kodilla "Automated Tester" Java course**, focusing on **Java Testing Basics** in Java 21.
 
 The module focuses on:
 
